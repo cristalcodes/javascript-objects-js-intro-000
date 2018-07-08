@@ -1,3 +1,3 @@
 var playlist={
-  johnMayer: 'Free Falling'
+  John Mayer: 'Free Falling'
 }
